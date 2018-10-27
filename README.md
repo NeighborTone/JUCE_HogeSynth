@@ -1,1 +1,2 @@
-JUCE_HogeSynth
+JUCE‚ðŽg‚Á‚½VSTì¬ƒTƒ“ƒvƒ‹  
+
