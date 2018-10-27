@@ -1,2 +1,1 @@
-JUCE‚ðŽg‚Á‚½VSTì¬ƒTƒ“ƒvƒ‹  
-
+JUCEã‚’ä½¿ã£ãŸVSTä½œæˆã‚µãƒ³ãƒ—ãƒ«
